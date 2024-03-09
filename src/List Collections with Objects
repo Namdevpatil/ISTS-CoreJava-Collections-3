@@ -1,0 +1,29 @@
+List(I):
+	- ArrayList
+	- LinkedList
+	- Vector
+		- Stack
+		
+Above all implementation classes we learn with literal values,
+
+List Collections With Objects:
+
+for example,
+
+Student(c)
+    - fields
+    - initializers(constructors and blocks)
+    - methods
+    - inner classes
+    
+We want to perform some operations Student objects(CRUD operations)
+		- 1. search the object
+				- get(index number) method
+				- equals() method
+		- 2. add and remove the object
+				- using index number
+				- using with object(equals() method)
+		- 3. sort the objects
+				- 
+		- 4. update the object
+				- using set() method
